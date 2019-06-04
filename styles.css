@@ -1,0 +1,72 @@
+#title{
+  padding: 7% 15%;
+  background-color: black;
+  background-image: url();
+}
+body{
+  text-align: center;
+  font-family: 'Encode Sans Semi Expanded', sans-serif;
+}
+.Faker{
+  width: 40%;
+
+}
+.Doublelift{
+  width: 50%;
+
+
+}
+.Annie{
+  width: 50%;
+
+
+}
+.BecomeAPRO{
+  color: white;
+  padding-top: 50px;
+  padding-bottom:100px;
+  font-family: 'Encode Sans Semi Expanded', sans-serif;
+  font-weight: 600;
+
+}
+.slideshowtitle{
+  color: #fff;
+  font-weight: 400;
+}
+#prices{
+  padding: 7% 15%;
+}
+h2{
+  font-weight: 600;
+  padding-bottom: 20px;
+}
+.tfblade{
+  width: 20%;
+float:left;
+
+}
+.mogwli{
+  width: 20%;
+  float: left;
+}
+.berry{
+  width: 20%;
+  float:left;
+}
+#footer{
+  padding:  7% 15%;
+  background-color: black;
+}
+
+.icon1{
+  display: inline;
+  color: white;
+  padding-left: 10px;
+}
+.icon1:hover{
+  color: blue;
+}
+.copyright{
+  color: #fff;
+  padding-top: 20px;
+}
